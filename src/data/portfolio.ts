@@ -54,7 +54,7 @@ export const portfolio = {
   email: "",
   github: "https://github.com/pranav444444",
   linkedin: "https://www.linkedin.com/in/pranav-patel-www22447630a",
-  resumeHref: "https://drive.google.com/file/d/1p-iT5BTyG8ZeHK--C6wb9SV1SfDcKyfm/view?usp=drive_link",
+  resumeHref: "https://drive.google.com/file/d/1YpPcovA1qvn2MlQXaGZWSHK-xYfQoq1o/view?usp=drive_link",
   about: [
     "I am a Computer Science graduate with hands-on experience across Data Analytics, Business Intelligence, Machine Learning, and Deep Learning. I work across the data lifecycle: cleaning and exploration, SQL preparation, dashboarding, experimentation, evaluation, API development, containerization, and cloud deployment.",
     "My internship and project work spans pharmacy logistics, retail, banking, telecom, healthcare, and customer segmentation. I am strengthening my expertise in Computer Vision, NLP, and production-ready ML systems while pursuing entry-level opportunities across Data Analytics, Data Science, Machine Learning, and AI/ML.",
